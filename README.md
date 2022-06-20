@@ -5,4 +5,5 @@ use method
 ```
 node compress --input G:\shiyandata\test3
 \```
+
 ![image](https://user-images.githubusercontent.com/40077811/174546169-89047ceb-80d5-407b-b273-12bc2c6fde1d.png)
